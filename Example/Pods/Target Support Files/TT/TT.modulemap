@@ -1,0 +1,6 @@
+framework module TT {
+  umbrella header "TT-umbrella.h"
+
+  export *
+  module * { export * }
+}

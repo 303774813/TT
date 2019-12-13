@@ -1,0 +1,22 @@
+{
+  "name": "TT",
+  "version": "0.1.0",
+  "summary": "iiiiii",
+  "description": "gjkgjkgggg",
+  "homepage": "https://github.com/303774813/TT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "303774813": "wangchao7@yiche.com"
+  },
+  "source": {
+    "git": "https://github.com/303774813/TT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TT/Classes/**/*"
+}
